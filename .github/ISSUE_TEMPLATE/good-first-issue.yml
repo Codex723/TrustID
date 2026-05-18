@@ -1,0 +1,7 @@
+name: Good First Issue
+description: TypeScript types for core entities.
+labels: ["good-first-issue", "typescript"]
+body:
+  - type: markdown
+    attributes:
+      value: "Define the TypeScript interfaces for `DIDDocument`, `VerifiableCredential`, and `CredentialRequest` in `src/types.ts`."

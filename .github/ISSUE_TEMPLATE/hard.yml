@@ -1,0 +1,7 @@
+name: Hard Issue
+description: Build ZK proof generation module using BLS12-381.
+labels: ["hard", "zk", "cryptography"]
+body:
+  - type: markdown
+    attributes:
+      value: "Build the ZK proof generation module using BLS12-381 so users can prove attributes like age or nationality without revealing raw data. Integration should be in `src/zk/`."

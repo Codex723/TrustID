@@ -1,0 +1,7 @@
+name: Medium Issue
+description: Implement on-chain credential issuance and revocation.
+labels: ["medium", "rust", "soroban"]
+body:
+  - type: markdown
+    attributes:
+      value: "Implement the `issue_credential` and `revoke_credential` functions in the Soroban contract. Ensure they update the on-chain audit log."

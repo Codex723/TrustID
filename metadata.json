@@ -1,0 +1,6 @@
+{
+  "name": "TrustID",
+  "description": "Decentralized identity and reusable KYC credential platform on Stellar Soroban with ZK proofs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
